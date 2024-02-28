@@ -1,3 +1,4 @@
 node_modules/
 scss/
-packge.json
+packge-lock.json
+.vscode
